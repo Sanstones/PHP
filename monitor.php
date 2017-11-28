@@ -80,7 +80,7 @@
 	  $errortimes = $response['hits']['total'];
 	  print_r($errortimes);
 	  if($errortimes > 50) {
-		  //要是响应时间大于  发短信
+		  //要是响应时间大于  发短信 
 		  
 	  }
   }
